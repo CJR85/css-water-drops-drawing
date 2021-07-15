@@ -40,3 +40,14 @@ body {
   height: 20px;
   border-radius: 42% 58% 37% 63% / 40% 43% 57% 60%;
 }
+
+.drop::after {
+  content: '';
+  position: absolute;
+  top: 25px;
+  left: 65px;
+  background: #fff;
+  width: 10px;
+  height: 10px;
+  border-radius: 57% 43% 37% 63% / 48% 37% 63% 52%;
+}
