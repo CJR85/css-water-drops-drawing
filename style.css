@@ -61,3 +61,8 @@ body {
   transform: scale(0.5) translate(280px, 10px);
   border-radius: 49% 51% 42% 58% / 56% 47% 53% 44%;
 }
+
+.drop:nth-child(4) {
+  transform: scale(0.35) translate(120px, -350px);
+  border-radius: 39% 61% 63% 37% / 77% 47% 53% 23%;
+}
